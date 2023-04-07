@@ -4,6 +4,7 @@ Screen1 As screen:
         DisplayMode: =DisplayMode.Edit
         Height: =32
         Width: =320
+        Fill: =red
         X: =40
         Y: =40
         ZIndex: =1

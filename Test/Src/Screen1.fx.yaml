@@ -2,6 +2,7 @@ Screen1 As screen:
 
     DropdownCanvas1 As Dropdown.pcfdataset:
         DisplayMode: =DisplayMode.Edit
+        Fill: =red
         Height: =32
         Width: =320
         X: =40
